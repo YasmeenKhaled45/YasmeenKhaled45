@@ -17,7 +17,7 @@ Programming Languages: C#, C++, python,JavaScript, TypeScript
 -🚀 My Projects
 -  **[Survey Basket API](https://github.com/YasmeenKhaled45/SurveyBasketAPI)**: A robust survey and polling platform 
 -  **[SmartAttendanceSystemUsingQrcodeScaning](https://github.com/YasmeenKhaled45/SmartAttendance-using-Qrcode)**: smartattendance application with .net 
--  **[RepositoryPatternUnitOfWork]((https://github.com/YasmeenKhaled45/RepositoryPatternWithUnitOfwork))**: appling Generic Repository in .Net
+-  **[RepositoryPatternUnitOfWork](https://github.com/YasmeenKhaled45/RepositoryPatternWithUnitOfwork)**: appling Generic Repository in .Net
 - **[FileManager](https://github.com/YasmeenKhaled45/FileManager)**:FileManager Api for uploading , downloading Files with FluentValidation.
 
   
